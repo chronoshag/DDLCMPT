@@ -1,0 +1,18 @@
+You may use the assets and code present in this archive in any mods for DDLC as you see fit, provided you adhere to the following restrictions:
+
+1) The following language must be included verbatim as an easily accessible credit within the finished product:
+
+"This project uses code and/or assets from the Mood Posing Tool, developed by members of the Doki Doki Rewind/Replay team (Chronos, Yagamirai, and Terra).  The assets from the MPT may not be redistributed in any form.  More information concerning the MPT - including downloads and documentation - can be found at this link: https://old.reddit.com/r/DDLCMods/comments/emennq/mood_posing_tool_mpt_v10_release_for_ddlc_modding/?ref=share&ref_source=link"
+
+2) You may not redistribute any of the contents or assets contained in this archive separately from a DDLC modding project under any circumstances or provide direct download links that bypass the officially hosted links for the MPT.  This includes, but is not limited to:
+
+- Uploads/hosting to any form of cloud hosting service.
+- Distributing via any form of automated download/delivery service.
+- As part of a larger pack of modding assets or tools.
+- As individual assets or as part of a smaller pack of assets or tools.
+- As part of an altered or "updated" pack that's not from one of the officially hosted links.
+
+You ARE allowed to use only some assets or code from this archive in a mod for DDLC and omit other assets or code, so long as the above rules concerning credit and redistribution are followed.  Common examples of this include:
+
+- Extracting the art/sprites from this archive and using only said art/sprites, without using any of the code.
+- Extracting the code from this archive and using only said code, without using any of the art/sprites.
